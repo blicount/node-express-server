@@ -14,5 +14,6 @@ express based server with mongodb database with 4 routes all under http//domain/
 
 pre-requirements
 
-http request exexution tool(ex:postman,insomnia...) 
-run npm insall if you dont use docker
+http request exexution tool(ex:postman,insomnia...) to run the fetch-tweets call
+
+if you dont use docker run npm insall commend before 
