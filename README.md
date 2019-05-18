@@ -2,7 +2,7 @@ node server express based
 
 short brief
 
-express based server with mongodb database with 4 routes
+express based server with mongodb database with 4 routes all under http://domain/words/<wanted route below>
 
 1. fetch-tweets - getting requested words and similar words deom datamuse api and inserting into relevant collection.
 
