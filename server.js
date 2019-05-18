@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use('/assets', express.static(`${__dirname}/public`));
  
-app.listen(port , console.log(`listening on port ${port}`) );
+app.listen(port , console.log(`listening on Port ${port}`) );
 
 
 app.use(function (req, res, next) {
